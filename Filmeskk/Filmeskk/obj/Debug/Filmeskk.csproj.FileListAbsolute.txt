@@ -1,0 +1,9 @@
+c:\users\tecnico\documents\visual studio 2015\Projects\Filmeskk\Filmeskk\bin\Debug\Filmeskk.exe.config
+c:\users\tecnico\documents\visual studio 2015\Projects\Filmeskk\Filmeskk\bin\Debug\Filmeskk.exe
+c:\users\tecnico\documents\visual studio 2015\Projects\Filmeskk\Filmeskk\bin\Debug\Filmeskk.pdb
+c:\users\tecnico\documents\visual studio 2015\Projects\Filmeskk\Filmeskk\obj\Debug\Filmeskk.csprojResolveAssemblyReference.cache
+c:\users\tecnico\documents\visual studio 2015\Projects\Filmeskk\Filmeskk\obj\Debug\Filmeskk.exe
+c:\users\tecnico\documents\visual studio 2015\Projects\Filmeskk\Filmeskk\obj\Debug\Filmeskk.pdb
+C:\Users\Tecnico\Downloads\Filmeskk\Filmeskk\bin\Debug\Filmeskk.exe.config
+C:\Users\Tecnico\Downloads\Filmeskk\Filmeskk\obj\Debug\Filmeskk.exe
+C:\Users\Tecnico\Downloads\Filmeskk\Filmeskk\obj\Debug\Filmeskk.pdb
